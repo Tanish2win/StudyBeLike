@@ -1,7 +1,7 @@
 ## 📺 My YouTube Channel
-[![StudyBeLike – 2004](https://img.shields.io/badge/YouTube-StudyBeLike-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/YOUR_CHANNEL_ID)
+[![StudyBeLike – 2004](https://img.shields.io/badge/YouTube-StudyBeLike-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/@StudyBeLike-2004)
 
 ### 🔗 Check out my YouTube channel for related content!
-[![YouTube](https://img.shields.io/badge/Subscribe-StudyBeLike-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/YOUR_CHANNEL_ID)
+[![YouTube](https://img.shields.io/badge/Subscribe-StudyBeLike-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/@StudyBeLike-2004)
 
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)

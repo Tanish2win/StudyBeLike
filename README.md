@@ -14,7 +14,7 @@ Welcome to my YouTube channel! I share insightful videos on physics, learning te
 
 ## 🎬 Featured Video
 
-[![Watch the video](https://img.youtube.com/vi/mJW57E7GpSo/0.jpg)](https://www.youtube.com/watch?v=mJW57E7GpSo)
+[![Watch the video](https://img.youtube.com/yCrkPtvN6mw&t=805s.jpg)]((https://www.youtube.com/watch?v=yCrkPtvN6mw&t=805s))
 
 **The best study playlist to keep you happy and motivated** – a relaxing, inspiring mix of study, chill, travel music perfect for focused work. :contentReference[oaicite:1]{index=1}
 
